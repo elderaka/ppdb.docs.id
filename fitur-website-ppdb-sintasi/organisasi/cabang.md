@@ -8,7 +8,7 @@ description: >-
 
 Sekolah anda mungkin memiliki cabang pada domisili lain yang bukan berada pada alamat pusat. Oleh karena itu, kami memberikan tata cara bagaimana untuk menambahkan cabang-cabang sekolah anda.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tampilan menu Cabang PPDB Sintasi</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Tampilan menu Cabang PPDB Sintasi</p></figcaption></figure>
 
 ## Menambahkan Cabang Sekolah
 
@@ -52,6 +52,6 @@ Hal yang perlu dilakukan adalah
 2. Tekan tombol "Ya, Hapus"
 3. Tunggu hingga muncul notifikasi "Success"
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Apabila anda menghapus suatu cabang, maka semua unit di dalam cabang itu juga akan terhapus!
 {% endhint %}

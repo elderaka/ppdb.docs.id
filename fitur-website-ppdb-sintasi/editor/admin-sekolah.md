@@ -31,7 +31,7 @@ Anda juga dapat mengubah akun Admin Sekolah anda yang lama.
 
 Hal yang perlu dilakukan adalah:
 
-1. Tekan tombol <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> pada baris akun Admin yang ingin diubah
+1. Tekan tombol <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> pada baris akun Admin yang ingin diubah
 2. Ubah bagan yang ingin anda ubah
 3. Ketik ulang password anda maupun yang baru
 4. Tekan tombol Submit
