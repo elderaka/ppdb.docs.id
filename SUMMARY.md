@@ -7,6 +7,7 @@
 * [Akses Akun PPDB Sintasi](panduan-awal/akses-akun-ppdb-sintasi.md)
 * [Dashboard](panduan-awal/dashboard.md)
 * [Menu Sidebar](panduan-awal/menu-sidebar.md)
+* [Mengatur Profil Sekolah](panduan-awal/mengatur-profil-sekolah.md)
 
 ## Fitur Website PPDB Sintasi
 
@@ -24,7 +25,6 @@
 * [PSB](fitur-website-ppdb-sintasi/psb/README.md)
   * [Gelombang Pendaftaran](fitur-website-ppdb-sintasi/psb/gelombang-pendaftaran.md)
   * [Registrasi Siswa](fitur-website-ppdb-sintasi/psb/registrasi-siswa.md)
-* [Profil Sekolah](fitur-website-ppdb-sintasi/profil-sekolah.md)
 * [Laporan](fitur-website-ppdb-sintasi/laporan/README.md)
   * [Pendaftaran](fitur-website-ppdb-sintasi/laporan/pendaftaran.md)
 

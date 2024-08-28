@@ -12,7 +12,10 @@ Sekolah anda mungkin memiliki cabang pada domisili lain yang bukan berada pada a
 
 ## Menambahkan Cabang Sekolah
 
-Anda dapat menambahkan Cabang Sekolah yang baru
+Anda dapat menambahkan Cabang Sekolah sesuai dengan yang anda inginkan.
 
-Hal yang perlu dilakukan adalah
+Hal yang perlu dilakukan adalah:
+
+1. Tekan tombol '+ Cabang'
+2.
 
