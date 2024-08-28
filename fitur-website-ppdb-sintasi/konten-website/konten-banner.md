@@ -54,7 +54,7 @@ Hal yang perlu anda lakukan adalah sebagai berikut:
 2. Tekan tombol "Ya, Hapus"
 3. Tunggu hingga muncul notifikasi "Success"
 
-{% hint style="warning" %}
+{% hint style="info" %}
 DIrekomendasikan anda memiliki minimal satu Konten Banner pada Halaman Utama anda
 {% endhint %}
 
