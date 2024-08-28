@@ -6,6 +6,8 @@ description: >-
 
 # Mengatur Profil Sekolah
 
+
+
 <figure><img src="../.gitbook/assets/image_2024-08-28_095013078.png" alt=""><figcaption><p>Formulir Profil Sekolah PPDB Sintasi</p></figcaption></figure>
 
 
@@ -56,19 +58,15 @@ Berisikan dengan nama halaman Youtube anda apabila tersedia
 
 ## Informasi Sekolah
 
-
+### Tentang Sekolah (Halaman Utama)
 
 <figure><img src="../.gitbook/assets/image_2024-08-28_100046316.png" alt="" width="563"><figcaption><p>Pengenalan Sekolah pada halaman utama</p></figcaption></figure>
 
-### Tentang Sekolah (Halaman Utama)
-
 Berisikan mengenai pengenalan sekolah anda yang dapat terlihat pada [Halaman utama](../fitur-website-sekolah-sintasi/halaman-utama.md)
 
-
+### Ubah Foto
 
 <figure><img src="../.gitbook/assets/image_2024-08-28_101234879.png" alt=""><figcaption><p>Pengenalan Sekolah pada Halaman Tentang kami</p></figcaption></figure>
-
-### Ubah Foto
 
 Mengubah foto yang dapat ditampilkan pada [Halaman Tentang Kami](../fitur-website-sekolah-sintasi/halaman-tentang-kami.md)
 
