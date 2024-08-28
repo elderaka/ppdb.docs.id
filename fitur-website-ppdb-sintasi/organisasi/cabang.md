@@ -34,13 +34,13 @@ Apabila ada perubahan atas Cabang Sekolah anda, anda dapat dengan mudah mengubah
 
 Hal yang perlu dilakukan adalah:
 
-1. Tekan tombol <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">
-2. Tekan field yang ingin anda ubah
+1. Tekan tombol <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> pada baris Cabang yang ingin anda ubah
+2. Pilih field yang ingin anda ubah
 3. Ubahlah sesuai dengan yang anda inginkan
 4. Tekan tombol Submit
 5. Tunggu hingga data selesai diajukan
 
-### Menghapus Cabang Sekolah Anda
+## Menghapus Cabang Sekolah Anda
 
 <figure><img src="../../.gitbook/assets/ezgif-1-c70475bffe.gif" alt=""><figcaption><p>Menghapus Cabang Sekolah Anda</p></figcaption></figure>
 
@@ -48,7 +48,7 @@ Semisalnya terjadi kesalahan terhadap Cabang Sekolah anda, anda dapat menghapusn
 
 Hal yang perlu dilakukan adalah
 
-1. Tekan tombol <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">
+1. Tekan tombol <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> pada baris cabang yang ingin anda hapus
 2. Tekan tombol "Ya, Hapus"
 3. Tunggu hingga muncul notifikasi "Success"
 

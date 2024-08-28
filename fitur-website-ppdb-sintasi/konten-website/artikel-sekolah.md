@@ -6,5 +6,4 @@ description: >-
 
 # Artikel Sekolah
 
-## Overview
-
+Anda dapat menyuguhkan berita-berita terbaru mengenai sekolah anda dengan bantuan Artikel
