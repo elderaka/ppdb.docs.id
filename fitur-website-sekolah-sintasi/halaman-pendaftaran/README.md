@@ -9,7 +9,7 @@ description: >-
 Pada tahap pendaftaran, ada beberapa tahapan yang harus dilakukan oleh siswa. Diantaranya adalah:
 
 1. [Mendaftarkan email](halaman-pendaftaran-email.md)
-2. Memverifikasi email
+2. [Memverifikasi email](halaman-pendaftaran-email.md#email-verifikasi)
 3. [Melakukan Pembayaran Pendaftaran](halaman-pembayaran-pendaftaran.md)
 4. [Mengisi Formulir Pendaftaran](halaman-formulir-siswa.md)
 5. [Melihat Status Pendaftaran](halaman-status-pendaftaran.md)
