@@ -6,9 +6,24 @@ description: >-
 
 # Artikel Sekolah
 
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Tampilan menu Artikel Sekolah PPDB Sintasi</p></figcaption></figure>
+
 PPDB Sintasi memberikan fitur untuk anda apabila anda mempunyai ide untuk menyuguhkan informasi terbaru mengenai sekolah dalam bentuk berita artikel. Setiap artikel mempunyai halaman sendiri sesuai dengan keperluan anda.
 
 ## Menambahkan Artikel Sekolah
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Menambahkan Artikel Sekolah</p></figcaption></figure>
+
+Anda dapat menambahkan Artikel Sekolah anda semisalnya anda memiliki ide-ide menarik untuk memberikan kabar mengenai Sekolah anda
+
+Tahap-tahap untuk menambahkan artikel adalah:
+
+1. Tekan tombol '+ Artikel'
+2. Tambahkan Gambar Artikel yang anda inginkan
+3. Ketik Judul Artikel anda
+4. Dengan _tools_ yang anda, anda bisa dengan leluasa membuat artikel yang anda inginkan
+5. Tekan tombol Submit
+6. Tunggu hingga data selesai diajukan
 
 Setelah anda menambahkan Artikel, maka Artikel yang anda buat akan tertampil pada Halaman Utama dan Halaman Kumpulan Artikel
 
