@@ -6,13 +6,12 @@ description: >-
 
 # Halaman Pendaftaran
 
-Informasi yang terdapat pada Halaman Masuk akun adalah:
+Pada tahap pendaftaran, ada beberapa tahapan yang harus dilakukan oleh siswa. Diantaranya adalah:
 
-* Input Area Email Akun
-* Input Area Password Akun
+1. [Mendaftarkan email](halaman-pendaftaran-email.md)
+2. Memverifikasi email
+3. [Melakukan Pembayaran Pendaftaran](halaman-pembayaran-pendaftaran.md)
+4. [Mengisi Formulir Pendaftaran](halaman-formulir-siswa.md)
+5. [Melihat Status Pendaftaran](halaman-status-pendaftaran.md)
 
-Gambar yang terpajang pada halaman ini adalah Foto Sekolah yang dapat anda modifikasi pada [Profil Sekolah](../../panduan-awal/mengatur-profil-sekolah.md)
-
-{% hint style="info" %}
-Die
-{% endhint %}
+Apabila Calon Siswa telah melaksanakan tahap-tahap diatas, maka Calon Siswa telah resmi menjadi anggota sekolah anda

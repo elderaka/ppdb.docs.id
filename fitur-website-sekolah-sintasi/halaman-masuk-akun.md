@@ -6,6 +6,8 @@ description: >-
 
 # Halaman Masuk Akun
 
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 Informasi yang terdapat pada Halaman Masuk akun adalah:
 
 * Input Area Email Akun

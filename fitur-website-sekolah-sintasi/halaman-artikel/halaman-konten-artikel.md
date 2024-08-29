@@ -6,6 +6,8 @@ description: >-
 
 # Halaman Konten Artikel
 
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Tampian halaman Artikel</p></figcaption></figure>
+
 Ketika anda telah membuat Artikel pada bagan [Artikel](../../fitur-website-ppdb-sintasi/konten-website/artikel-sekolah.md) pada Website PPDB Sintasi, maka artikel anda akan tersedia secara langsung pada website sekolah anda.&#x20;
 
 Informasi yang terdapat pada Halaman Konten Artikel anda adalah:
@@ -20,9 +22,9 @@ Halaman Konten Artikel dapat anda akses dengan menambahkan _slug_ dibelakang web
 
 ```
 Contoh:
-Judul Artikel: Memanfaatkan Keuangan
-Tanggal Pembuatan: 28 Agustus 2024 10:00:00
-Domain Artikel {{domain-sekolah.com}}/article/memanfaatkan-keuangan-20240824100000
+Judul Artikel: Francis, Kucing Kerdil Lucu
+Tanggal Pembuatan: 29 Agustus 2024 09:47:44
+Domain Artikel {{domain-sekolah.com}}/article/francis-kucing-kerdil-lucu-20240829024744
 ```
 
 {% hint style="info" %}
