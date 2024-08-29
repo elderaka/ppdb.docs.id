@@ -28,6 +28,10 @@ Hal yang perlu dilakukan adalah:
 8. Tekan Tombol Submit
 9. Tunggu hingga notifikasi Success
 
+{% hint style="info" %}
+Gambar memiliki dimensi maksimal 400x220 dengan format .JPG atau .JPEG pada Halaman Unit
+{% endhint %}
+
 ## Mengubah Unit Sekolah
 
 <figure><img src="../../.gitbook/assets/ezgif-1-5d959609d7.gif" alt=""><figcaption></figcaption></figure>

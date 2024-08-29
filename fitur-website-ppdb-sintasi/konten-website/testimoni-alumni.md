@@ -27,6 +27,10 @@ Hal yang perlu dilakukan untuk menambahkan Konten Banner adalah:
 5. Tekan tombol "Submit"
 6. Tunggu hingga muncul notifikasi "Success"
 
+{% hint style="info" %}
+Gambar memiliki rasio 1:1 dengan format .JPEG pada Halaman Utama
+{% endhint %}
+
 ## Mengubah Testimoni Alumni
 
 <figure><img src="../../.gitbook/assets/ezgif-7-34da2509c1.gif" alt=""><figcaption></figcaption></figure>

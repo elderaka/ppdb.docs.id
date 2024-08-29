@@ -18,6 +18,10 @@ Saat anda ingin membuat website Sekolah, tentunya diperlukan data-data penting s
 
 ## Data Sekolah
 
+### Logo
+
+Logo Sekolah anda dengan format .jpg atau .jpeg
+
 ### Nama
 
 Berisikan dengan Nama sekolah anda
@@ -62,13 +66,17 @@ Berisikan dengan nama halaman Youtube anda apabila tersedia
 
 <figure><img src="../.gitbook/assets/image_2024-08-28_100046316.png" alt="" width="563"><figcaption><p>Pengenalan Sekolah pada halaman utama</p></figcaption></figure>
 
-Berisikan mengenai pengenalan sekolah anda yang dapat terlihat pada [Halaman utama](../fitur-website-sekolah-sintasi/halaman-utama.md)
+Berisikan mengenai pengenalan sekolah anda yang dapat terlihat pada [Halaman utama](../fitur-website-sekolah-sintasi/halaman-utama.md) dengan syntax HTML
 
 ### Ubah Foto
 
 <figure><img src="../.gitbook/assets/image_2024-08-28_101234879.png" alt=""><figcaption><p>Pengenalan Sekolah pada Halaman Tentang kami</p></figcaption></figure>
 
-Mengubah foto yang dapat ditampilkan pada [Halaman Tentang Kami](../fitur-website-sekolah-sintasi/halaman-tentang-kami.md)
+Mengubah foto yang dapat ditampilkan pada [Halaman Tentang Kami](../fitur-website-sekolah-sintasi/halaman-tentang-kami.md).&#x20;
+
+{% hint style="info" %}
+Gambar memiliki dimensi maksimal 400x220 dengan format .JPG atau .JPEG pada Halaman Utama
+{% endhint %}
 
 ### Tentang Sekolah (Halaman Tentang Kami)
 

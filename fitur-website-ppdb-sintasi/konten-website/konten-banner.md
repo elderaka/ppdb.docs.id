@@ -25,7 +25,7 @@ Hal yang perlu dilakukan untuk menambahkan Konten Banner adalah:
 5. Tunggu hingga muncul notifikasi "Success"
 
 {% hint style="info" %}
-Gambar memiliki dimensi maksimal 1400x400 pada Halaman Utama
+Gambar memiliki dimensi maksimal 1400x400 dengan format .JPG atau .JPEG pada Halaman Utama
 {% endhint %}
 
 ## Mengubah Konten Banner

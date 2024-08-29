@@ -28,7 +28,7 @@ Hal yang perlu dilakukan untuk menambahkan Konten Gallery adalah:
 5. Tunggu hingga muncul notifikasi "Success"
 
 {% hint style="info" %}
-Gambar memiliki dimensi maksimal 400x220 pada Halaman Utama
+Gambar memiliki dimensi maksimal 400x220 dengan format .JPEG pada Halaman Utama
 {% endhint %}
 
 ## Mengubah Konten Galeri

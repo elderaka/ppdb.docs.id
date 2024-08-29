@@ -25,6 +25,10 @@ Tahap-tahap untuk menambahkan artikel adalah:
 5. Tekan tombol Submit
 6. Tunggu hingga data selesai diajukan
 
+{% hint style="info" %}
+Gambar memiliki dimensi maksimal 770x450 dengan format .JPG atau .JPEG pada Halaman Utama
+{% endhint %}
+
 Setelah anda menambahkan Artikel, maka Artikel yang anda buat akan tertampil pada Halaman Utama dan Halaman Kumpulan Artikel
 
 <figure><img src="../../.gitbook/assets/image_2024-08-28_115341282.png" alt="" width="563"><figcaption><p>Halaman Tampilkan Artikel berisikan Artikel Sekolah</p></figcaption></figure>
