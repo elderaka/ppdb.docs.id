@@ -27,6 +27,7 @@
   * [Registrasi Siswa](fitur-website-ppdb-sintasi/psb/registrasi-siswa.md)
 * [Laporan](fitur-website-ppdb-sintasi/laporan/README.md)
   * [Pendaftaran Siswa](fitur-website-ppdb-sintasi/laporan/pendaftaran.md)
+* [Mutasi Rekening](fitur-website-ppdb-sintasi/mutasi-rekening.md)
 
 ## Fitur Website Sekolah Sintasi
 
